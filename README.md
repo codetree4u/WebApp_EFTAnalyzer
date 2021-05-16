@@ -19,7 +19,7 @@ This project leverages python 3.7 with the following packages:
 
 * [sqlalchemy](https://www.sqlalchemy.org/) - a library that facilitates the communication between Python programs and databases.
 
-* [voila](https://alpaca.markets/) - turns Jupyter notebooks into standalone web applications.
+* [voila](https://voila.readthedocs.io/en/stable/) - turns Jupyter notebooks into standalone web applications.
 
 
 ---
